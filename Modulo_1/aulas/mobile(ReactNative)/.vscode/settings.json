@@ -1,0 +1,37 @@
+{
+    "editor.tabSize": 2,
+    "editor.renderLineHighlight": "gutter",
+    "editor.rulers": [80, 120],
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "python.pythonPath": "C:\\Users\\Igor\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "workbench.colorTheme": "Dracula",
+    "window.zoomLevel": 0,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+    },
+
+    "emmet.includeLanguages":{
+        "java": "javareact"
+    },
+
+    "emmet.sintaxeProfiles": {
+        "java": "jsx"
+    },
+    "editor.parameterHints.enable": false,
+    "breadcrumbs.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.compactFolders": false,
+    "workbench.editor.labelFormat": "short",
+    "java.semanticHighlighting.enabled": true,
+    "java.requirements.JDK11Warning": false,
+    "[json]": {
+    
+    }
+}
